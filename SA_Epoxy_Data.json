@@ -4,7 +4,9 @@
   "age": 25,
   "city": "Guwahati",
   "isStudent": false,
-  "email": "rahul@example.com",
+  
+  
+  "splash_screen_time": "500",
   
   
   "splash_screen_img_or_vdo_url": "https://i.ibb.co/gM2rxZNN/seedream-4-5-a-Is-image-main-more-r.jpg",
@@ -21,10 +23,10 @@
   "share_app_message": "SA Epoxy App Download Link ",
     "share_app_link": "https://github.com/blackshadowh4ck3r/SA-/raw/refs/heads/main/SA%20Epoxy_11.0.apk",
     
-    "app_update_showing": "false",
-    "app_update_message": "what is new ",
-    "app_update_download_link": "https://github.com/blackshadowh4ck3r/SA-/raw/refs/heads/main/SA%20Epoxy_1.0.apk",
-    "app_update_version_code": "11.0",
+    "app_update_showing": "true",
+    "app_update_message": "what is new 1) app optimization 2) Epoxy online class avilable 3) bug fix 4) User UID option add 5) smooth video player add",
+    "app_update_download_link": "https://github.com/blackshadowh4ck3r/SA-/raw/refs/heads/main/SA%20Epoxy.apk",
+    "app_update_version_code": "11.1",
     
     "app_temporary_close": "Rahul",
     "app_temporary_close_message": "Rahul",
@@ -139,14 +141,14 @@ Each (Special Gold, Black, White) | Ult...",
         "p4_pri": "250",
   
   
-  "class_subscription_price": "₹6,999 Only"
+  "class_subscription_price": "₹6,999 Only",
   
-  "class_1": "true"
-  "class_2": "https://www.dropbox.com/scl/fi/ceuib6hwkzici2473aand/VID_20260910_192618.mp4?rlkey=p56wl0xn17ecm2qm2jnbl2nfg&st=sj7c0rz3&raw=1"
-  "class_3": "https://www.dropbox.com/scl/fi/ceuib6hwkzici2473aand/VID_20260910_192618.mp4?rlkey=p56wl0xn17ecm2qm2jnbl2nfg&st=sj7c0rz3&raw=1"
-  "class_4": "true"
-  "class_5": "true"
-  "class_6": "true"
+  "class_1": "true",
+  "class_2": "https://www.dropbox.com/scl/fi/ceuib6hwkzici2473aand/VID_20260910_192618.mp4?rlkey=p56wl0xn17ecm2qm2jnbl2nfg&st=sj7c0rz3&raw=1",
+  "class_3": "https://www.dropbox.com/scl/fi/ceuib6hwkzici2473aand/VID_20260910_192618.mp4?rlkey=p56wl0xn17ecm2qm2jnbl2nfg&st=sj7c0rz3&raw=1",
+  "class_4": "true",
+  "class_5": "true",
+  "class_6": "true",
   
   
   
