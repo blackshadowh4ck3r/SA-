@@ -11,8 +11,7 @@
       "text": "T2",
       "buttonText": "B2",
       "clickUrl": "https://saepoxy.blogspot.com/?m=1"
-    },
-    
+    }
   ],
   "videos": [
     {
@@ -30,7 +29,6 @@
       "views": "2K views",
       "likes": "2K",
       "description": "d2"
-    
     }
   ]
 }
