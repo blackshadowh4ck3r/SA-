@@ -1,19 +1,21 @@
 {
   "slides": [
     {
-      "image": "https://example.com/shoes.jpg",
-      "text": "NAYE JUTON KA COLLECTION - ABHI KHAREEDEIN",
+      "image": "https://example.com/banner.jpg",
+      "text": "Naye Products Ka Collection",
       "buttonText": "DEKHEIN",
-      "clickUrl": "https://example.com/shoes"
+      "clickUrl": "https://imgbb.com/"
     }
   ],
   "videos": [
     {
       "title": "Sasti Smartwatch Ka Sach!",
       "videoUrl": "https://www.image2url.com/r2/default/videos/1789998394382-ed1f59a2-df9a-4e12-b468-50119e95346e.mp4",
+      "thumbnailUrl": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
       "views": "15K views",
       "likes": "2K",
-      "description": "Is video mein budget smartwatches ka honest review..."
+      "description": "Smartwatch ka complete review..."
     }
   ]
 }
+
