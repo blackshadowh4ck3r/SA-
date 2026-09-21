@@ -1,62 +1,36 @@
 {
   "slides": [
     {
-      "image": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "text": "Naye Products Ka Collection",
-      "buttonText": "DEKHEIN",
-      "clickUrl": "https://imgbb.com/"
+      "image": "https://i.ibb.co/cMNCkqm/Screenshot-2026-09-21-10-06-31-205-lockscreen.jpg",
+      "text": "T1",
+      "buttonText": "B1",
+      "clickUrl": "https://www.image2url.com/en-IN/video-preview?u=https%3A%2F%2Fwww.image2url.com%2Fr2%2Fdefault%2Fvideos%2F1790000575710-35014d78-08ea-4e6f-8eea-9a4f4866e25d.mp4&n=VID_20260910_194221.mp4&t=video%2Fmp4&s=4305697&from=video-to-url"
     },
     {
       "image": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "text": "Naye Products Ka Collection",
-      "buttonText": "DEKHEIN",
-      "clickUrl": "https://imgbb.com/"
+      "text": "T2",
+      "buttonText": "B2",
+      "clickUrl": "https://saepoxy.blogspot.com/?m=1"
     },
-    {
-      "image": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "text": "Naye Products Ka Collection",
-      "buttonText": "DEKHEIN",
-      "clickUrl": "https://imgbb.com/"
-    },
-    {
-      "image": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "text": "Naye Products Ka Collection",
-      "buttonText": "DEKHEIN",
-      "clickUrl": "https://imgbb.com/"
-    }
+    
   ],
   "videos": [
     {
-      "title": "Sasti Smartwatch Ka Sach!",
+      "title": "T1",
       "videoUrl": "https://www.image2url.com/r2/default/videos/1789998394382-ed1f59a2-df9a-4e12-b468-50119e95346e.mp4",
       "thumbnailUrl": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "views": "15K views",
-      "likes": "2K",
-      "description": "Smartwatch ka complete review..."
+      "views": "1K views",
+      "likes": "1K",
+      "description": "d1"
     },
     {
-      "title": "Sasti Smartwatch Ka Sach!",
-      "videoUrl": "https://www.image2url.com/r2/default/videos/1789998394382-ed1f59a2-df9a-4e12-b468-50119e95346e.mp4",
-      "thumbnailUrl": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "views": "15K views",
+      "title": "T2",
+      "videoUrl": "https://www.image2url.com/r2/default/videos/1790000575710-35014d78-08ea-4e6f-8eea-9a4f4866e25d.mp4",
+      "thumbnailUrl": "https://i.ibb.co/jvJCJj70/Picsart-26-09-20-21-53-42-688.png",
+      "views": "2K views",
       "likes": "2K",
-      "description": "Smartwatch ka complete review..."
-    },
-    {
-      "title": "Sasti Smartwatch Ka Sach!",
-      "videoUrl": "https://www.image2url.com/r2/default/videos/1789998394382-ed1f59a2-df9a-4e12-b468-50119e95346e.mp4",
-      "thumbnailUrl": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "views": "15K views",
-      "likes": "2K",
-      "description": "Smartwatch ka complete review..."
-    },
-    {
-      "title": "Sasti Smartwatch Ka Sach!",
-      "videoUrl": "https://www.image2url.com/r2/default/videos/1789998394382-ed1f59a2-df9a-4e12-b468-50119e95346e.mp4",
-      "thumbnailUrl": "https://i.ibb.co/S4w5MdP3/IMG-20260920-WA0001.jpg",
-      "views": "15K views",
-      "likes": "2K",
-      "description": "Smartwatch ka complete review..."
+      "description": "d2"
+    
     }
   ]
 }
